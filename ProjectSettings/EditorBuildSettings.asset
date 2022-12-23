@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/MainMenu.unity
+    guid: 83aec468118904a3a96c539c6deeb343
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/Days.unity
+    guid: c4699e5651e327b4991716bf91193f4b
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/BusTimeline.unity
+    guid: 843830a7637c147b588481e40898f8d3
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/SceneWork.unity
+    guid: 07e525ff157f143488dc80db413ca7f0
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/Identification.unity
+    guid: ccb2b8cbac17c4d6e8bf7eb6e9d73f15
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/Alcotester.unity
+    guid: 1315148d37fb142dabbec7deefcfdd6e
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/SceneWorkMiner.unity
+    guid: 68de2f545646db949962d348f95debbc
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/Dressing.unity
+    guid: 203b1272e68cb4c7fbd820b54dd46088
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/RoomLift.unity
+    guid: 8d12d2d588737a34a90c42d98db63b74
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/PerforatorMinigame.unity
+    guid: 8e240905229584f3a8ed11fa214b45f8
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/MineMap.unity
+    guid: 758231bbd99b7c64482a72c56763e177
+  - enabled: 0
+    path: Assets/ImportantFile/Scenes/MineSituation.unity
+    guid: 79b754048b617034691b5d18a0c0a318
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/FirstAid.unity
+    guid: a01dca7ea297b43ffb7c115f3c602537
+  - enabled: 0
+    path: Assets/ImportantFile/Scenes/Examination.unity
+    guid: ccc38a4ebc08089419a1886701cb337b
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/Results.unity
+    guid: cd0e42a8a40104d7bb49fdcc7d7c6113
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/Quiz_1.unity
+    guid: de8ae118cd4434f359ee16d3b04e894d
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/MineMapEccident.unity
+    guid: 85fda0b4b96d29046976a77364611d1a
+  - enabled: 1
+    path: Assets/ImportantFile/Scenes/SampleScene 1.unity
+    guid: c64cf8c590af0c5469a9971b1ee0b03f
+  m_configObjects: {}
